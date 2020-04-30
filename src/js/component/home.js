@@ -59,10 +59,7 @@ export function Home() {
 					do eiusmod tempor incididunt ut labore et dolore magna
 					aliqua. Ut enim ad minim veniam, quis nostrud exercitation
 					ullamco laboris nisi ut aliquip ex ea commodo consequat.
-					Duis aute irure dolor in reprehenderit in voluptate velit
-					esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-					occaecat cupidatat non proident, sunt in culpa qui officia
-					deserunt mollit anim id est laborum.
+					
 				</p>
 				<a href="#" className="btn">
 					Read More <i className="fas fa-angle-double-right" />
@@ -153,92 +150,7 @@ export function Home() {
 					</a>
 				</div>
 			</div>
-			{/* Card2 */}
-			<div className="news-cards-two">
-				<div>
-					<img
-						src="https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-						alt=""
-					/>
-					<h3>Where does it come from?</h3>
-					<p>
-						Contrary to popular belief, Lorem Ipsum is not simply
-						random text. It has roots in a piece of classical Latin
-						literature from 45 BC, making it over 2000 years old.
-						Richard McClintock.
-					</p>
-					<a href="#">
-						Learn More <i className="fas fa-angle-double-right" />
-					</a>
-				</div>
-
-				<div>
-					<img
-						src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-						alt=""
-					/>
-					<h3>Where does it come from?</h3>
-					<p>
-						Contrary to popular belief, Lorem Ipsum is not simply
-						random text. It has roots in a piece of classical Latin
-						literature from 45 BC, making it over 2000 years old.
-						Richard McClintock.
-					</p>
-					<a href="#">
-						Learn More <i className="fas fa-angle-double-right" />
-					</a>
-				</div>
-				<div>
-					<img
-						src="https://images.pexels.com/photos/206660/pexels-photo-206660.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-						alt=""
-					/>
-					<h3>Where does it come from?</h3>
-					<p>
-						Contrary to popular belief, Lorem Ipsum is not simply
-						random text. It has roots in a piece of classical Latin
-						literature from 45 BC, making it over 2000 years old.
-						Richard McClintock.
-					</p>
-					<a href="#">
-						Learn More <i className="fas fa-angle-double-right" />
-					</a>
-				</div>
-				<div>
-					<img
-						src="https://images.pexels.com/photos/2081166/pexels-photo-2081166.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-						alt=""
-					/>
-					<h3>Where does it come from?</h3>
-					<p>
-						Contrary to popular belief, Lorem Ipsum is not simply
-						random text. It has roots in a piece of classical Latin
-						literature from 45 BC, making it over 2000 years old.
-						Richard McClintock.
-					</p>
-					<a href="#">
-						Learn More <i className="fas fa-angle-double-right" />
-					</a>
-				</div>
-			</div>
-			{/* Banner2 */}
-			<div className="card-banner-two">
-				<div className="content">
-					<img
-						src="https://images.pexels.com/photos/1758672/pexels-photo-1758672.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-						alt=""
-					/>
-					<h2>Where can I get some?</h2>
-					<p>
-						There are many variations of passages of Lorem Ipsum
-						available, but the majority have suffered alteration.
-					</p>
-					<a href="#" className="btn">
-						Learn More <i className="fas fa-angle-double-right" />
-					</a>
-				</div>
-			</div>
-
+			
 			{/* Social */}
 			<section className="social">
 				<p>Follow Technews</p>
