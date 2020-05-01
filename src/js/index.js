@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './component/App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -30,8 +30,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('app')
 );
-// ScrollReveal().reveal(".showcase-container");
-// ScrollReveal().reveal(".news-cards", { delay: 500 });
-// ScrollReveal().reveal(".news-cards-two", { delay: 500 });
-// ScrollReveal().reveal(".cards-banner", { delay: 500 });
-// ScrollReveal().reveal(".cards-banner-two", { delay: 500 });
+
